@@ -4,10 +4,6 @@
     --light-color:#666;
 }
 
-html{
-                min-height: 100%;
-                max-width: 100%;
-}
             body{
                 margin: 0;
                 border: 0;
